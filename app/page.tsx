@@ -76,12 +76,9 @@ export default function Home() {
           link="https://cilantrorestaurants.com"
           img={"/cilantro/1.png"}
           title="Cilantro"
-          desc="Discover the power of your spiritual spread connections,
-                revealing the echoes of past lives shared together. Marvel
-                at the exciting possibilities that new relationships hold,
-                characterized by the connections from the life spread. Each
-                connection adds a layer of depth and understanding, painting
-                a comprehensive portrait of your love story."
+          desc="Cilantro is the team work of Cilantro Restaurant Cafe. 
+          We aim at promoting the food industry through our restaurants 
+          and our delectable dishes, which integrates different cultures."
         />
         <hr className="bg-black border-b-2 border-gray-300 w-full" />
         <AboutCard
